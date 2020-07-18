@@ -1,0 +1,39 @@
+,Specs,Details
+0,Displacement,155 cm3
+1,Max Power,13.6 Kw (18.5ps)/10000 Rpm
+2,Maximum Torque,13.9 N.m(1.4 kgfm)/8500 rpm
+3,Bore,58.0 mm
+4,Stroke,58.7 mm
+5,Valves Per Cylinder,4-valve
+6,Compression Ratio,11.6:1
+7,Fuel Delivery System,Fuel Injection
+8,Ignition,TCI (Transistor controlled ignition)
+9,No. of Gears,6
+10,Transmission Type,"Constant mesh, 6-speed"
+11,Clutch,Wet Multiple-disc
+12,Front Brake Type,Hydraulic single disc (ABS)
+13,Front Brake Size,282mm
+14,Rear Brake Type,Hydraulic single disc
+15,Rear Brake Size,220mm
+16,Front Tyre Size,100/80-17M/C 52P
+17,Rear Tyre Size,140/70-17M/C 66H
+18,Tyre Type,Tubeless
+19,Front Suspension,Telescopic fork
+20,Rear Suspension,"Swingarm, (Link suspension)"
+21,Kerb Weight,138 kg
+22,Overall Length,"2,020 mm"
+23,Overall Width,800 mm
+24,Overall Height,"1,070 mm"
+25,Wheelbase,"1,335 mm"
+26,Ground Clearance,170 mm
+27,Seat Height,810 mm
+28,Chassis Type,Deltabox
+29,Fuel Tank Capacity,10L/2.6usgal/2.2Imp.gal
+30,Reserve Fuel Capacity,"1.05 L (1.11 US qt, 0.92 Imp.qt)"
+31,Speedometer,Digital
+32,Fuel Guage,Digital
+33,Start Type,Electric
+34,Battery,"ETZ-5, 12V,4.0Ah(10HR)"
+35,Headlight Type,LED
+36,Brake/Tail Light,LED
+37,Turn Signal,"12V, 10W×2"
