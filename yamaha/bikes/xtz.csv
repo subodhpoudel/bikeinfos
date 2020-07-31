@@ -1,26 +1,27 @@
 ,Specs,Details
-0,Displacement,124cc
-1,Max Power,10.2 PS @ 7500 rpm
-2,Maximum Torque,9.9 Nm @ 5500 rpm
-3,Bore,54mm
-4,Stroke,54mm
-5,Compression Ratio,10.0:1
-6,Fuel Delivery System,Carburetor
-7,Ignition,CDI
-8,Transmission Type,"Constant mesh, 5-speed"
-9,Front Brake Type,Disc
-10,Rear Brake Type,Drum
-11,Front Tyre Size,80/90 -21
-12,Rear Tyre Size,110/80 -18
-13,Front Suspension,Telescopic fork
-14,Rear Suspension,Monocross
-15,Kerb Weight,118 kg
-16,Overall Length,2090 mm
-17,Overall Width,830 mm
-18,Overall Height,1115 mm
-19,Wheelbase,1340 mm
-20,Ground Clearance,260 mm
-21,Seat Height,840 mm
-22,Fuel Tank Capacity,10.6 L
-23,Start Type,Electric and Kick
-24,Headlight Type,Halogen
+0,Price,"₨399,900"
+1,Displacement,124cc
+2,Max Power,10.2 PS @ 7500 rpm
+3,Maximum Torque,9.9 Nm @ 5500 rpm
+4,Bore,54mm
+5,Stroke,54mm
+6,Compression Ratio,10.0:1
+7,Fuel Delivery System,Carburetor
+8,Ignition,CDI
+9,Transmission Type,"Constant mesh, 5-speed"
+10,Front Brake Type,Disc
+11,Rear Brake Type,Drum
+12,Front Tyre Size,80/90 -21
+13,Rear Tyre Size,110/80 -18
+14,Front Suspension,Telescopic fork
+15,Rear Suspension,Monocross
+16,Kerb Weight,118 kg
+17,Overall Length,2090 mm
+18,Overall Width,830 mm
+19,Overall Height,1115 mm
+20,Wheelbase,1340 mm
+21,Ground Clearance,260 mm
+22,Seat Height,840 mm
+23,Fuel Tank Capacity,10.6 L
+24,Start Type,Electric and Kick
+25,Headlight Type,Halogen

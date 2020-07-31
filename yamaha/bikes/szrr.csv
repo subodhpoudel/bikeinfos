@@ -1,25 +1,26 @@
 ,Specs,Details
-0,Displacement,149cc
-1,Cylinders,Single Cylinder
-2,Max Power,12.1PS / 7500 rpm
-3,Maximum Torque,12.8 Nm / 6000 rpm
-4,Valves Per Cylinder,2-valve
-5,Fuel Delivery System,Carburetor
-6,Transmission Type,Transmission type
-7,Clutch,"Wet, multiple disc"
-8,Front Brake Type,Hydraulic Disc
-9,Rear Brake Type,Drum
-10,Front Tyre Size,2.75-17M/C 41P
-11,Rear Tyre Size,100/90-17M/C 55P
-12,Tyre Type,Tubless
-13,Front Suspension,Telescopic fork
-14,Rear Suspension,Swingarm
-15,Kerb Weight,134 kg
-16,Wheelbase,"1,320 mm"
-17,Ground Clearance,165 mm
-18,Seat Height,800 mm
-19,Chassis Type,Diamond
-20,Fuel Tank Capacity,14 L
-21,Start Type,Electric / Kick
-22,Battery,"12V, 5AH (10H)"
-23,Headlight Type,"12V, 35 / 35W x 1"
+0,Price,"₨235,900"
+1,Displacement,149cc
+2,Cylinders,Single Cylinder
+3,Max Power,12.1PS / 7500 rpm
+4,Maximum Torque,12.8 Nm / 6000 rpm
+5,Valves Per Cylinder,2-valve
+6,Fuel Delivery System,Carburetor
+7,Transmission Type,Transmission type
+8,Clutch,"Wet, multiple disc"
+9,Front Brake Type,Hydraulic Disc
+10,Rear Brake Type,Drum
+11,Front Tyre Size,2.75-17M/C 41P
+12,Rear Tyre Size,100/90-17M/C 55P
+13,Tyre Type,Tubless
+14,Front Suspension,Telescopic fork
+15,Rear Suspension,Swingarm
+16,Kerb Weight,134 kg
+17,Wheelbase,"1,320 mm"
+18,Ground Clearance,165 mm
+19,Seat Height,800 mm
+20,Chassis Type,Diamond
+21,Fuel Tank Capacity,14 L
+22,Start Type,Electric / Kick
+23,Battery,"12V, 5AH (10H)"
+24,Headlight Type,"12V, 35 / 35W x 1"

@@ -1,31 +1,32 @@
 ,Specs,Details
-0,Displacement,149cc
-1,Cylinders,Single Cylinder
-2,Max Power,9.7 kW (13.1PS) / 8000 rpm
-3,Maximum Torque,12.8 N.m (1.3 kg f.m) / 6000 rpm)
-4,Bore,57.3mm
-5,Stroke,57.9mm
-6,Valves Per Cylinder,2-valve
-7,Compression Ratio,9.5:1
-8,Fuel Delivery System,Fuel injection
-9,No. of Gears,5
-10,Transmission Type,"Constant mesh, 5-speed"
-11,Clutch,"Wet, multiple disc"
-12,Front Brake Type,Disc
-13,Rear Brake Type,Drum
-14,Front Tyre Size,100/80-17M/C (52P)NYLOGRIP ZAPPER-FX1
-15,Rear Tyre Size,140/60-R17M/C (63P)revz-Y
-16,Tyre Type,Tubless
-17,Front Suspension,Telescopic fork
-18,Rear Suspension,Monocross
-19,Kerb Weight,132 kg
-20,Wheelbase,1330mm
-21,Ground Clearance,160 mm
-22,Seat Height,790 mm
-23,Chassis Type,Diamond
-24,Fuel Tank Capacity,12 L
-25,Low Fuel Indicator,Equipped
-26,Start Type,Electric Starter
-27,Battery,"12V, 4.0AH (10H), Sealed type"
-28,Headlight Type,Headlight
-29,Turn Signal,"12V, 10W x 2"
+0,Price,"₨275,900"
+1,Displacement,149cc
+2,Cylinders,Single Cylinder
+3,Max Power,9.7 kW (13.1PS) / 8000 rpm
+4,Maximum Torque,12.8 N.m (1.3 kg f.m) / 6000 rpm)
+5,Bore,57.3mm
+6,Stroke,57.9mm
+7,Valves Per Cylinder,2-valve
+8,Compression Ratio,9.5:1
+9,Fuel Delivery System,Fuel injection
+10,No. of Gears,5
+11,Transmission Type,"Constant mesh, 5-speed"
+12,Clutch,"Wet, multiple disc"
+13,Front Brake Type,Disc
+14,Rear Brake Type,Drum
+15,Front Tyre Size,100/80-17M/C (52P)NYLOGRIP ZAPPER-FX1
+16,Rear Tyre Size,140/60-R17M/C (63P)revz-Y
+17,Tyre Type,Tubless
+18,Front Suspension,Telescopic fork
+19,Rear Suspension,Monocross
+20,Kerb Weight,132 kg
+21,Wheelbase,1330mm
+22,Ground Clearance,160 mm
+23,Seat Height,790 mm
+24,Chassis Type,Diamond
+25,Fuel Tank Capacity,12 L
+26,Low Fuel Indicator,Equipped
+27,Start Type,Electric Starter
+28,Battery,"12V, 4.0AH (10H), Sealed type"
+29,Headlight Type,Headlight
+30,Turn Signal,"12V, 10W x 2"
