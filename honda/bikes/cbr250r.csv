@@ -1,29 +1,30 @@
 ,Specs,Details
-0,Length,2032 mm
-1,Width,720 mm
-2,Height,1127 mm
-3,Wheelbase,1367 mm
-4,Ground clearance,145 mm
-5,Kerb weight,163 kg
-6,Fuel tank capacity,13 L
-7,Starting method,Self
-8,Displacement,249.6 cc
-9,Max net power,>19.5 kw (26.15 bhp)@8500 rpm
-10,Max net torque,22.9 Nm@7000 rpm
-11,Compression ratio,10.7:1
-12,Stroke,55 mm
-13,Bore,76 mm
-14,No. of gears,6
-15,Gear pattern,1-N-2-3-4-5-6
-16,Max speed,135 Kmph
-17,Tyre size,110/70-17
-18,Tyre type,Tubeless
-19,Brake type/size,Disc 296 mm
-20,Tyre size,140/70-17
-21,Tyre type,Tubeless
-22,Brake type/size,Disc 220 mm
-23,Frame type,Twin spar
-24,Front suspension,Telescopic
-25,Rear suspension,Spring loaded hydraulic type (monoshock)
-26,Battery,12V 6Ah (MF)
-27,Head lamp,12V 60/55W
+0,Price,"Rs. 679,900"
+1,Length,2032 mm
+2,Width,720 mm
+3,Height,1127 mm
+4,Wheelbase,1367 mm
+5,Ground clearance,145 mm
+6,Kerb weight,163 kg
+7,Fuel tank capacity,13 L
+8,Starting method,Self
+9,Displacement,249.6 cc
+10,Max net power,>19.5 kw (26.15 bhp)@8500 rpm
+11,Max net torque,22.9 Nm@7000 rpm
+12,Compression ratio,10.7:1
+13,Stroke,55 mm
+14,Bore,76 mm
+15,No. of gears,6
+16,Gear pattern,1-N-2-3-4-5-6
+17,Max speed,135 Kmph
+18,Tyre size,110/70-17
+19,Tyre type,Tubeless
+20,Brake type/size,Disc 296 mm
+21,Tyre size,140/70-17
+22,Tyre type,Tubeless
+23,Brake type/size,Disc 220 mm
+24,Frame type,Twin spar
+25,Front suspension,Telescopic
+26,Rear suspension,Spring loaded hydraulic type (monoshock)
+27,Battery,12V 6Ah (MF)
+28,Head lamp,12V 60/55W

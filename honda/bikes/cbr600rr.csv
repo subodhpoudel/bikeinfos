@@ -1,29 +1,30 @@
 ,Specs,Details
-0,Length,2030mm
-1,Width,685mm
-2,Height, 1115mm
-3,Wheelbase,1375mm
-4,Ground clearance,135mm
-5,Kerb weight,186kg
-6,Fuel tank capacity,18L
-7,Starting method,Electric
-8,Displacement,599cc Liquid-cooled 4-stroke 16-valve DOHC inline
-9,Max net power,118HP@13500rpm
-10,Max net torque,66Nm@11250rpm
-11,Compression ratio,12.2:1
-12,Stroke,42.5mm
-13,Bore,67mm
-14,No. of gears,6
-15,Gear pattern,
-16,Max speed,
-17,Tyre size,120/70ZR-17
-18,Tyre type,Radial
-19,Brake type/size,"Dual discs with radial-mount 4-piston hydraulic callipers, 310mm discs; Honda Combined ABS"
-20,Tyre size,180/55ZR-17
-21,Tyre type,Radial
-22,Brake type/size,Single-piston hydraulic calliper 220mm; Combined ABS
-23,Frame type,Fine Die-Cast (FDC)
-24,Front suspension,"Inverted Big Piston Fork with spring preload, rebound and compression damping adjustability"
-25,Rear suspension,"Unit Pro-Link® HMAS™ single shock with spring preload, rebound and compression damping adjustability"
-26,Battery,
-27,Head lamp,
+0,Price,"Rs. 3,450,000"
+1,Length,2030mm
+2,Width,685mm
+3,Height, 1115mm
+4,Wheelbase,1375mm
+5,Ground clearance,135mm
+6,Kerb weight,186kg
+7,Fuel tank capacity,18L
+8,Starting method,Electric
+9,Displacement,599cc Liquid-cooled 4-stroke 16-valve DOHC inline
+10,Max net power,118HP@13500rpm
+11,Max net torque,66Nm@11250rpm
+12,Compression ratio,12.2:1
+13,Stroke,42.5mm
+14,Bore,67mm
+15,No. of gears,6
+16,Gear pattern,
+17,Max speed,
+18,Tyre size,120/70ZR-17
+19,Tyre type,Radial
+20,Brake type/size,"Dual discs with radial-mount 4-piston hydraulic callipers, 310mm discs; Honda Combined ABS"
+21,Tyre size,180/55ZR-17
+22,Tyre type,Radial
+23,Brake type/size,Single-piston hydraulic calliper 220mm; Combined ABS
+24,Frame type,Fine Die-Cast (FDC)
+25,Front suspension,"Inverted Big Piston Fork with spring preload, rebound and compression damping adjustability"
+26,Rear suspension,"Unit Pro-Link® HMAS™ single shock with spring preload, rebound and compression damping adjustability"
+27,Battery,
+28,Head lamp,

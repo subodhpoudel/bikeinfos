@@ -1,29 +1,30 @@
 ,Specs,Details
-0,Length,2092mm
-1,Width,756mm
-2,Height,1100mm
-3,Wheelbase,1336mm
-4,Ground clearance,179mm
-5,Kerb weight,146kg
-6,Fuel tank capacity,13L
-7,Starting method,Self/Kick
-8,Displacement,149.2CC
-9,Max net power,9.5KW(12.73BHP)@8000RPM
-10,Max net torque,12.8NM@5500RPM
-11,Compression ratio,9.1:1
-12,Stroke,
-13,Bore,
-14,No. of gears,5
-15,Gear pattern,1-N-2-3-4-5
-16,Max speed,
-17,Tyre size,80/100-18
-18,Tyre type,Tubeless
-19,Brake type/size,Disc 240 mm
-20,Tyre size,100/90-80
-21,Tyre type,Tubeless
-22,Brake type/size,Drum 130 mm / Disc 240 mm
-23,Frame type,Diamond
-24,Front suspension,Telescopic
-25,Rear suspension,Monoshock
-26,Battery,12V 7AH
-27,Head lamp,12V 35/3W
+0,Price,"Rs. 261,900"
+1,Length,2092mm
+2,Width,756mm
+3,Height,1100mm
+4,Wheelbase,1336mm
+5,Ground clearance,179mm
+6,Kerb weight,146kg
+7,Fuel tank capacity,13L
+8,Starting method,Self/Kick
+9,Displacement,149.2CC
+10,Max net power,9.5KW(12.73BHP)@8000RPM
+11,Max net torque,12.8NM@5500RPM
+12,Compression ratio,9.1:1
+13,Stroke,
+14,Bore,
+15,No. of gears,5
+16,Gear pattern,1-N-2-3-4-5
+17,Max speed,
+18,Tyre size,80/100-18
+19,Tyre type,Tubeless
+20,Brake type/size,Disc 240 mm
+21,Tyre size,100/90-80
+22,Tyre type,Tubeless
+23,Brake type/size,Drum 130 mm / Disc 240 mm
+24,Frame type,Diamond
+25,Front suspension,Telescopic
+26,Rear suspension,Monoshock
+27,Battery,12V 7AH
+28,Head lamp,12V 35/3W

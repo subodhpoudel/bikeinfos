@@ -14,15 +14,16 @@ x = 0
 while x < 3:
     rem = small.pop(0)
     x = x + 1
-para = [spec.get_text() for spec in details]
+small = ['Price'] + small    
+price = soup.find(id='model-price').get_text()    
+para = [price] + [spec.get_text() for spec in details]
 x = len(para)
 rem = para.pop(x-1)
 #specs = soup.select('.specs-detail')
 #for i in specs:
     #print([i.text])
     
-print(small)
-print(para)
+
 bike = pd.DataFrame(
     {'Specs': small,
      'Details': para,
